@@ -8,3 +8,5 @@ public class App {
 		Application.launch(StartVindue.class);
 	}
 }
+
+// does this shit work
